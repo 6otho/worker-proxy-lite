@@ -107,10 +107,3 @@ export default {
 ## 📄 开源协议
 [MIT License](LICENSE)
 ```
-
-***
-
-### 💡 提交建议：
-1. 把这段内容直接存为 `README.md`。
-2. 里面代码块的 `targetHostname` 我留了你一开始发给我的 `smoggy-lottie...`，你可以在发布时把它改成一个占位符比如 `your-app-name.koyeb.app`，防止暴露你自己的真实应用。
-3. 把项目推送到 GitHub，配上你刚才挑好的名字（比如 `cf-worker-proxy`），别人一搜就能用了！
