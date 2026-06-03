@@ -31,7 +31,7 @@ export default {
     const url = new URL(request.url);
     
     // ⬇️ 将这里替换成你真实的 PaaS 目标域名 ⬇️
-    const targetHostname = 'smoggy-lottie-koyeb7-f752f758.koyeb.app';
+    const targetHostname = '你的域名';
     
     url.hostname = targetHostname;
     url.protocol = 'https:';
