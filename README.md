@@ -1,4 +1,3 @@
-```markdown
 # 🚀 CF-Worker-Proxy
 
 一个专为 PaaS 平台（如 Koyeb, Render, Vercel 等）设计的轻量级 Cloudflare Worker 反向代理脚本。
